@@ -1,0 +1,55 @@
+"Phrases"
+{
+	// =========================== [Mode] ===========================
+	"normal mode"
+	{
+		"en"			"normal mode"
+		"ru"			"normal mode"
+	}
+	"nemesis mode"
+	{
+		"en"			"nemesis mode"
+		"ru"			"nemesis mode"
+	}
+	"survivor mode"
+	{
+		"en"			"survivor mode"
+		"ru"			"survivor mode"
+	}
+	"swarm mode"
+	{
+		"en"			"swarm mode"
+		"ru"			"swarm mode"
+	}
+	"escape mode"
+	{
+		"en"			"escape mode"
+		"ru"			"escape mode"
+	}
+	"sniper mode"
+	{
+		"en"			"sniper mode"
+		"ru"			"sniper mode"
+	}
+	
+	// =========================== [Round Rewards] ===========================
+	"chat round rewards"
+	{
+		"en"			"##1E90FF-------------[Round Rewards]-------------"
+		"ru"			"##1E90FF-------------[Награды за раунд]-------------"
+	}
+	
+	"chat round top players"
+	{
+		"#format"		"{1:d},{2:N},{3:.1f},{4:d}"
+		"en"			"\n##1E90FF{1}. ##FFFFFF[##FFA500{2}##FFFFFF]##FFA500 - ##1E90FF[##FFA500{3} dmg##1E90FF] ##8A2BE2[##FFA500{4} Ammo##8A2BE2]"
+		"ru"			"\n##1E90FF{1}. ##FFFFFF[##FFA500{2}##FFFFFF]##FFA500 - ##1E90FF[##FFA500{3} урона##1E90FF] ##8A2BE2[##FFA500{4} Аммо##8A2BE2]"
+	}
+	
+	// =========================== [Round Gamemode] ===========================
+	"chat round gamemode normal"
+	{
+		"en"			"#98FB98[ZM] #FFA500Пропсы нельзя ставить пока не появились первые зомби."
+		"ru"			"#98FB98[ZM] #FFA500Пропсы нельзя ставить пока не появились первые зомби."
+	}
+}

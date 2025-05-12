@@ -1,0 +1,194 @@
+"Phrases"
+{
+	"CHAT_VIP_NO_ACCESS"
+	{
+		"en"		"#D3D3D3There is no access to the VIP menu! \nPress #98FB98[F2] #D3D3D3or #98FB98[say !vipinfo]"
+		"ru"		"#D3D3D3Нет доступа к VIP меню! \nнажмите #98FB98[F2] #D3D3D3или #98FB98[напишите !vipinfo]"
+	}
+	"CHAT_GIVE_VIP"
+	{
+		"#format" 	"{1:s},{2:s}"
+		"en"		"#98FB98[VIP] #D3D3D3Your account has been granted the privilege: #98FB98{1}#D3D3D3, for a period of: #98FB98{2}"
+		"ru"		"#98FB98[VIP] #D3D3D3На ваш аккаунт получена привилегия: #98FB98{1}#D3D3D3, сроком: #98FB98{2}"
+	}
+	"CHAT_GIVE_VIP_UPDATE"
+	{
+		"#format" 	"{1:s}"
+		"en"		"#98FB98[VIP] #D3D3D3The time of your VIP privilege has been extended: #98FB98{1}"
+		"ru"		"#98FB98[VIP] #D3D3D3Время вашей VIP привилегии продлилось: #98FB98{1}"
+	}
+	"CHAT_VIP_CONNECT"
+	{
+		"#format" 	"{1:s}"
+		"en"		"#98FB98[VIP] #D3D3D3Until the end of your VIP privilege: #98FB98{1}"
+		"ru"		"#98FB98[VIP] #D3D3D3До окончания вашей VIP привилегии: #98FB98{1}"
+	}
+	"CHAT_VIP_EXPIRED" // expired, connect expired, deleted
+	{
+		"en"		"#98FB98[VIP] #D3D3D3The time of your VIP privilege is over!"
+		"ru"		"#98FB98[VIP] #D3D3D3Время вашей VIP привилегии закончилось!"
+	}
+	"CHAT_VIP_PICKUP_MENU" // zschool VIP-Menu pickup... [spcode "\x04[ZSchool]\x07%06X Р’С‹ СѓР¶Рµ РІР·СЏР»Рё РїСЂРµРґРјРµС‚ !"]
+	{
+		"en"		"#98FB98[VIP] #D3D3D3You have already taken the item in this round."
+		"ru"		"#98FB98[VIP] #D3D3D3Вы уже брали предмет в этом раунде."
+	}
+	"CHAT_LEADERCLIENT"
+	{
+		"#format" 	"{1:N}"
+		"en"		"#98FB98[VIP] #D3D3D3There is also a player with a leader, the current leader is: #98FB98{1}"
+		"ru"		"#98FB98[VIP] #D3D3D3Уже есть игрок с лидеркой, текущий лидер: #98FB98{1}"
+	}
+	
+	// menus
+	"VIP_MENU_TITLE"
+	{
+		"en"		"VIP Menu:\n "
+		"ru"		"VIP Меню:\n "
+	}
+	"VIP_MENU_NO_GROUP"
+	{
+		"en"		"Warning: Bad VIP group"
+		"ru"		"Ошибка: Неверная VIP группа"
+	}
+	
+	// vip info
+	"MENU_TITLE_VIPINFO"
+	{
+		"en"		"[Zombie Mod] VIP INFO:\n "
+		"ru"		"[Zombie Mod] VIP Информация:\n "
+	}
+	"MENU_ITEM_VIPINFO_VIP"
+	{
+		"en"		"VIP [30 Days][200 RUB]"
+		"ru"		"VIP [30 Дней][200 RUB]"
+	}
+	"MENU_ITEM_VIPINFO_SUPERVIP"
+	{
+		"en"		"SUPER VIP [30 Days][500 RUB]"
+		"ru"		"SUPER VIP [30 Дней][500 RUB]"
+	}
+	"MENU_ITEM_VIPINFO_PREMIUM"
+	{
+		"en"		"MAXIMUM [30 Days][550 RUB]\n "
+		"ru"		"MAXIMUM [30 Дней][550 RUB]\n "
+	}
+	"MENU_ITEM_VIPINFO_MOTD"
+	{
+		"en"		"Buy"
+		"ru"		"Купить прямо сейчас"
+	}
+	
+	// items and weapons
+	"MENU_VIP_SHOP_ITEMS"
+	{
+		"en"		"Take Shop Item [Free]"
+		"ru"		"Взять итем из магазина"
+	}
+	"MENU_ITEM_ARMOR_100"
+	{
+		"en"		"Take 100 Armour point"
+		"ru"		"Взять 100 ед. брони"
+	}
+	"MENU_ITEM_ARMOR_50_HEALTH_50"
+	{
+		"en"		"Take 50 Health point"
+		"ru"		"Взять 50 ед. доп. здоровья"
+	}
+	
+	"MENU_WEAPON_SG550"
+	{
+		"en"		"Take SG550 [Sniper]"
+		"ru"		"Взять SG550 [Снайп. витовка]"
+	}
+	"MENU_WEAPON_M249"
+	{
+		"en"		"Take M249 [Machine gun]"
+		"ru"		"Взять M249 [Пулемёт]"
+	}
+	"MENU_WEAPON_RPG"
+	{
+		"en"		"Take RPG [Grenade laucher]"
+		"ru"		"Взять RPG [Гранатомёт]"
+	}
+	"MENU_WEAPON_M134"
+	{
+		"en"		"Take M134 [Minigun]"
+		"ru"		"Взять M134 [Миниган]"
+	}
+	"MENU_WEAPON_DINFINITY"
+	{
+		"en"		"Take Dinfinity [Pistols]"
+		"ru"		"Взять Dinfinity [Пистолеты]"
+	}
+	"MENU_WEAPON_FROSTGUN"
+	{
+		"en"		"Take Frostgun [Water gun]"
+		"ru"		"Взять Frostgun [Водянной]"
+	}
+	"MENU_WEAPON_SHIELDGRENADE"
+	{
+		"en"		"Take Shield [Grenade]"
+		"ru"		"Взять Щит [Граната]"
+	}
+	"MENU_WEAPON_SALAMANDER"
+	{
+		"en"		"Take Salamander [Flamethrower]"
+        "ru"		"Взять Salamander [Огнемёт]"
+	}
+	"MENU_WEAPON_THUNDERBOLT"
+	{
+		"en"		"Take Thunderbolt [Sniper]"
+		"ru"		"Взять Thunderbolt [Снайп. витовка]"
+	}
+	"MENU_WEAPON_M32"
+	{
+		"en"		"Take M32 [Grenade laucher]"
+		"ru"		"Взять M32 [Гранатомёт]"
+	}
+	"MENU_WEAPON_GAUSS"
+	{
+		"en"		"Take Gauss [Gauss gun]"
+		"ru"		"Взять Gaus [Гаус пушка]"
+	}
+	"MENU_WEAPON_MP5GITAR"
+	{
+		"en"		"Take AR-1 Gitar [Rifle]"
+		"ru"		"Взять AR-1 Гитара [Винтовка]"
+	}
+	"MENU_WEAPON_AWP_BUFF"
+	{
+		"en"		"Take AWP Buff [Sniper]"
+		"ru"		"Взять AWP Buff [Снайп. витовка]"
+	}
+	"MENU_WEAPON_TRIPMINE"
+	{
+		"en"		"Take Tripmines [Laser Mines]"
+		"ru"		"Взять Tripmine [Лазерные мины]"
+	}
+	"MENU_WEAPON_ETHEREAL"
+	{
+        "en"			"Take Ethereal [Laser Rifle]"
+        "ru"			"Взять Ethereal [Лазер. Винтовка]"
+	}
+	"MENU_WEAPON_LASERFIST"
+	{
+        "en"			"Take LaserFirst [Pistols]"
+        "ru"			"Взять LaserFirst [Пистолеты]"
+	}
+	"MENU_WEAPON_M3SHARK"
+	{
+        "en"			"Take M3 Shark [Shotgun]"
+        "ru"			"Взять M3 Shark [Дробовик]"
+	}
+	"MENU_VIP_LEADER"
+	{
+        "en"			"Take a leader"
+        "ru"			"Взять лидерку"
+	}
+	"MENU_WEAPON_FREEZE"
+	{
+        "en"			"Take freeze grenade"
+        "ru"			"Взять заморозку"
+	}
+}

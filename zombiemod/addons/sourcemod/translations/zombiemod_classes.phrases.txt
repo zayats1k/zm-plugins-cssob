@@ -1,0 +1,183 @@
+"Phrases"
+{
+	// =========================== [Classes] ===========================
+	"zombie"
+	{
+		"en"			"Zombie"
+		"ru"			"Зомби"
+	}
+	"human"
+	{
+		"en"			"Human"
+		"ru"			"Человек"
+	}
+	"nemesis"
+	{
+		"en"			"Nemesis"
+		"ru"			"Немезида"
+	}
+	"survivor"
+	{
+		"en"			"Survivor"
+		"ru"			"Выживший"
+	}
+	"sniper"
+	{
+		"en"			"Sniper"
+		"ru"			"Снайпер"
+	}
+	
+	// =========================== [Classes menu] ===========================
+	"choose humanclass"
+	{
+		"en"			"Choose Human class"
+		"ru"			"Choose Human class"
+	}
+	"choose zombieclass"
+	{
+		"en"			"[Choose zombie class]"
+		"ru"			"[Выбрать зомби класс]"
+	}
+	
+	// ====================================================================
+	"zombie_classic"
+	{
+		"en"			"Classic [☢]"
+		"ru"			"Классический [☢]"
+	}
+	"zombie_invisible"
+	{
+		"en"			"Invisible [☢]"
+		"ru"			"Невидимка [☢]"
+	}
+	"zombie_tank"
+	{
+		"en"			"Tank [☢]"
+		"ru"			"Танк [☢]"
+	}
+	"zombie_hunter"
+	{
+		"en"			"Hunter [☠]"
+		"ru"			"Охотник [☠]"
+	}
+	"zombie_spitter"
+	{
+		"en"			"Spitter"
+		"ru"			"Плевальщица"
+	}
+	"zombie_acidheadcrab"
+	{
+		"en"			"Headcrab"
+		"ru"			"Хедкраб"
+	}
+	"zombie_boomer"
+	{
+		"en"			"Boomer [☢]"
+		"ru"			"Толстяк [☢]"
+	}
+	"zombie_smoker"
+	{
+		"en"			"Smoker [☠]"
+		"ru"			"Смокер [☠]"
+	}
+	"human_mechanic"
+	{
+		"en"			"Human"
+		"ru"			"Человек"
+	}
+	"human_zoey"
+	{
+		"en"			"Human"
+		"ru"			"Человек"
+	}
+	"zombie_warden"
+	{
+		"en"			"Hiller [☢]"
+		"ru"			"Хиллер [☢]"
+	}
+	"zombie_witch"
+	{
+		"en"			"Witch [☠]"
+		"ru"			"Ведьма [☠]"
+	}
+	
+	"zombie_ze"
+	{
+		"en"			"zombie_ze"
+		"ru"			"zombie_ze"
+	}
+	
+	// ====================================================================
+	"zombie_nemesis"
+	{
+		"en"			"[Nemesis]|[☠]"
+		"ru"			"[Немезида]|[☠]"
+	}
+	"human_survivor"
+	{
+		"en"			"[Survivor]"
+		"ru"			"[Выживший]"
+	}
+	"human_sniper"
+	{
+		"en"			"[Sniper]"
+		"ru"			"[Снайпер]"
+	}
+	
+	// =========================== [Description] ===========================
+	"zombie_classic_d"
+	{
+		"en"			"Your zombie class has been changed to:#98FB98 Classic"
+		"ru"			"Ваш зомби класс изменён на:#98FB98 Класичесский"
+	}
+	"zombie_invisible_d"
+	{
+		"en"			"Your zombie class has been changed to:#98FB98 Invisibility"
+		"ru"			"Ваш зомби класс изменён на:#98FB98 Невидимка"
+	}
+	"zombie_tank_d"
+	{
+		"en"			"Your zombie class has been changed to:#98FB98 Tank"
+		"ru"			"Ваш зомби класс изменён на:#98FB98 Танк"
+	}
+	"zombie_hunter_d"
+	{
+		"en"			"Your zombie class has been changed to:#98FB98 Hunter"
+		"ru"			"Ваш зомби класс изменён на:#98FB98 Охотник"
+	}
+	"zombie_boomer_d"
+	{
+		"en"			"Your zombie class has been changed to:#98FB98 Boomer"
+		"ru"			"Ваш зомби класс изменён на:#98FB98 Толстяк"
+	}
+	"zombie_smoker_d"
+	{
+		"en"			"Your zombie class has been changed to:#98FB98 Smoker"
+		"ru"			"Ваш зомби класс изменён на:#98FB98 Смокер"
+	}
+	"zombie_spitter_d"
+	{
+		"en"			"Your zombie class has been changed to:#98FB98 Spitter"
+		"ru"			"Ваш зомби класс изменён на:#98FB98 Плевальщица"
+	}
+	"zombie_acidheadcrab_d"
+	{
+		"en"			"Your zombie class has been changed to:#98FB98 Headcrab"
+		"ru"			"Ваш зомби класс изменён на:#98FB98 Хедкраб"
+	}
+	"zombie_warden_d"
+	{
+		"en"			"Your zombie class has been changed to:#98FB98 Hiller"
+		"ru"			"Ваш зомби класс изменён на:#98FB98 Хиллер"
+	}
+	"zombie_witch_d"
+	{
+		"en"			"Your zombie class has been changed to:#98FB98 Witch"
+		"ru"			"Ваш зомби класс изменён на:#98FB98 Ведьма"
+	}
+	"zombie_ze_d"
+	{
+		"en"			"Your zombie class has been changed to:#98FB98 Classic zombie"
+		"ru"			"Ваш зомби класс изменён на:#98FB98 Обычный зомби"
+	}
+}

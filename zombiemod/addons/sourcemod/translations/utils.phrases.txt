@@ -1,0 +1,45 @@
+"Phrases"
+{
+	// prop
+	"PROP_TELEPORT" // i noob, idk
+	{
+		"en"			"#98FB98[ZM] {default}Нельзя поставить пропс в воздухе!"
+		"ru"			"#98FB98[ZM] {default}Нельзя поставить пропс в воздухе!"
+	}
+	"PROP_DISTANCE"
+	{
+		"en"			"#98FB98[ZM] {default}Слишком далеко!"
+		"ru"			"#98FB98[ZM] {default}Слишком далеко!"
+	}
+	"PROP_INVALID_POSITION"
+	{
+		"en"			"PROP_INVALID_POSITION"
+		"ru"			"PROP_INVALID_POSITION"
+	}
+	"PROP_STUCK"
+	{
+		"en"			"#98FB98[ZM] {default}Слишком близко, вы можете застрять!"
+		"ru"			"#98FB98[ZM] {default}Слишком близко, вы можете застрять!"
+	}
+	
+	"days"
+	{
+		"en"		"d "
+		"ru"		"д "
+	}
+	"hours"
+	{
+		"en"		"h "
+		"ru"		"ч "
+	}
+	"mines"
+	{
+		"en"		"m "
+		"ru"		"м "
+	}
+	"sec"
+	{
+		"en"		"s "
+		"ru"		"с "
+	}
+}

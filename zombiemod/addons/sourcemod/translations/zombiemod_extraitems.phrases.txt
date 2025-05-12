@@ -1,0 +1,136 @@
+"Phrases"
+{
+	// Items
+	"weapon_hegrenade"
+	{
+		"en"			"he"
+		"ru"			"he"
+	}
+	"weapon_shieldgrenade"
+	{
+		"en"			"shield"
+		"ru"			"shield"
+	}
+	"weapon_m249"
+	{
+		"en"			"m249"
+		"ru"			"m249"
+	}
+	"weapon_m134"
+	{
+		"en"			"m134"
+		"ru"			"m134"
+	}
+	"weapon_rpg"
+	{
+		"en"			"rpg"
+		"ru"			"rpg"
+	}
+	"weapon_p228"
+	{
+		"en"			"p228"
+		"ru"			"p228"
+	}
+	"weapon_elite"
+	{
+		"en"			"elite"
+		"ru"			"elite"
+	}
+	"weapon_fiveseven"
+	{
+		"en"			"fiveseven"
+		"ru"			"fiveseven"
+	}
+	"weapon_awp"
+	{
+		"en"			"awp"
+		"ru"			"awp"
+	}
+	"weapon_g3sg1"
+	{
+		"en"			"g3sg1"
+		"ru"			"g3sg1"
+	}
+	"weapon_tmp"
+	{
+		"en"			"tmp"
+		"ru"			"tmp"
+	}
+	"weapon_ump45"
+	{
+		"en"			"ump45"
+		"ru"			"ump45"
+	}
+	"weapon_p90"
+	{
+		"en"			"p90"
+		"ru"			"p90"
+	}
+	"weapon_xm1014"
+	{
+		"en"			"xm1014"
+		"ru"			"xm1014"
+	}
+	"weapon_m3"
+	{
+		"en"			"m3"
+		"ru"			"m3"
+	}
+	"weapon_deagle"
+	{
+		"en"			"deagle"
+		"ru"			"deagle"
+	}
+	"weapon_m4a1"
+	{
+		"en"			"m4a1"
+		"ru"			"m4a1"
+	}
+	"weapon_ak47"
+	{
+		"en"			"ak47"
+		"ru"			"ak47"
+	}
+	"weapon_famas"
+	{
+		"en"			"famas"
+		"ru"			"famas"
+	}
+	"weapon_sg552"
+	{
+		"en"			"sg552"
+		"ru"			"sg552"
+	}
+	"weapon_aug"
+	{
+		"en"			"aug"
+		"ru"			"aug"
+	}
+	"weapon_aug"
+	{
+		"en"			"aug"
+		"ru"			"aug"
+	}
+	"weapon_mp5navy"
+	{
+		"en"			"mp5navy"
+		"ru"			"mp5navy"
+	}
+	
+	/////////////// knifes ///////////////
+	"weapon_knife"
+	{
+		"en"			"Tomahawk"
+		"ru"			"Tomahawk"
+	}
+	"weapon_knife_dreadnova"
+	{
+		"en"			"Dreadnova"
+		"ru"			"Dreadnova"
+	}
+	"weapon_knife_warhammer"
+	{
+		"en"			"Warhammer Storm"
+		"ru"			"Warhammer Storm"
+	}
+}

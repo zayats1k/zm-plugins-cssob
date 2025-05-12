@@ -1,0 +1,238 @@
+"Phrases"
+{
+	"ZOMBIE_CLASS_MOTHER_HUD_BUTTON"
+    {
+        "en"            "CLICK [R]"
+        "ru"            "НАЖМИТЕ [R]"
+    }
+	"ZOMBIE_CLASS_MOTHER_HUD_COOLDOWN"
+    {
+		"#format"		"{1:d}"
+        "en"            "[RECHARGE {1}]"
+        "ru"            "[ПЕРЕЗАРЯДКА {1}]"
+    }
+	
+	// class mechanic
+	"HUMAN_CLASS_MECHANIC_HUD_BUTTON"
+	{
+		"en"			"HUMAN_CLASS_MECHANIC_HUD_BUTTON [F]"
+		"ru"			"HUMAN_CLASS_MECHANIC_HUD_BUTTON [F]"
+	}
+	"HUMAN_CLASS_MECHANIC_HUD_COOLDOWN"
+	{
+		"#format"		"{1:s}"
+		"en"			"HUMAN_CLASS_MECHANIC_HUD_COOLDOWN\n{1}"
+		"ru"			"HUMAN_CLASS_MECHANIC_HUD_COOLDOWN\n{1}"
+	}
+	
+	// class invisible
+	"ZOMBIE_CLASS_INVISIBLE_HUD_BUTTON"
+	{
+		"en"            "[R - activate invisibility]"
+		"ru"            "[R - активировать невидимость]"
+	}
+	"ZOMBIE_CLASS_INVISIBLE_HUD_COOLDOWN"
+	{
+		"#format"		"{1:.1f}"
+		"en"            "[Ability recharge: {1}]"
+		"ru"            "[Перезарядка способности: {1}]"
+	}
+	"ZOMBIE_CLASS_INVISIBLE_HUD_COOLDOWN_USESKILL"
+	{
+		"#format"		"{1:.1f}"
+		"en"            "[Invisibility is activated: {1}]"
+		"ru"            "[Невидимость активирована: {1}]"
+	}
+	
+	// class hunter
+	"ZOMBIE_CLASS_HUNTER_HUD_BUTTON1"
+    {
+        "en"            "[Sit down to jump]"
+        "ru"            "[Для прыжка присядьте]"
+    }
+	"ZOMBIE_CLASS_HUNTER_HUD_BUTTON2"
+    {
+        "en"            "[Now press MOUSE1]"
+        "ru"            "[Теперь нажмите MOUSE1]"
+    }
+	"ZOMBIE_CLASS_HUNTER_HUD_INJUMP"
+	{
+        "en"            "[Think over the flight path]"
+        "ru"            "[Продумывайте траекторию полёта]"
+	}
+	"ZOMBIE_CLASS_HUNTER_HUD_NONE"
+	{
+        "en"            "[You have to stand on the ground]"
+        "ru"            "[Вы должны стоять на земле]"
+	}
+	"ZOMBIE_CLASS_HUNTER_HUD_COOLDOWN"
+    {
+		"#format"		"{1:.1f}"
+        "en"            "[Ability recharge: { 1}]"
+        "ru"            "[Перезарядка способности: {1}]"
+    }
+	"ZOMBIE_CLASS_HUNTER_HUD_COOLDOWN_USESKILL"
+    {
+		"#format"		"{1:.1f}"
+        "en"            "[Ready to jump: {1}]"
+        "ru"            "[Готовность к прыжку: {1}]"
+    }
+
+	// class boomer
+	"ZOMBIE_CLASS_BOOMER_HUD_BUTTON"
+    {
+        "en"            "[Poison the victim - MOUSE2]"
+        "ru"            "[Отравить жертву - MOUSE2]"
+    }
+	"ZOMBIE_CLASS_BOOMER_HUD_COOLDOWN"
+    {
+		"#format"		"{1:.1f}"
+        "en"            "[Ability recharge: {1}]"
+        "ru"            "[Перезарядка способности: {1}]"
+    }
+	"ZOMBIE_CLASS_BOOMER_HUD_USESKILL"
+	{
+        "en"            "[Ability is activated]"
+        "ru"            "[Способность активирована]"
+	}
+	"ZOMBIE_CLASS_BOOMER_HUD_NONE"
+    {
+        "en"            "[Stop to use the ability]"
+        "ru"            "[Для использования способности остановитесь]"
+    }
+	
+	// class smoker
+	"ZOMBIE_CLASS_SMOKER_HUD_BUTTON"
+    {
+        "en"            "[Attract the victim - MOUSE2]"
+        "ru"            "[Притянуть жертву - MOUSE2]"
+    }
+	"ZOMBIE_CLASS_SMOKER_HUD_BUTTON_STOP"
+    {
+        "en"            "[Cancel capture - MOUSE2]"
+        "ru"            "[Отменить захват - MOUSE2]"
+    }
+	"ZOMBIE_CLASS_SMOKER_HUD_COOLDOWN"
+    {
+		"#format"		"{1:.1f}"
+        "en"            "[Ability recharge: {1}]"
+        "ru"            "[Перезарядка способности: {1}]"
+    }
+	"ZOMBIE_CLASS_SMOKER_HUD_NONE"
+    {
+        "en"            "[Stop to use the ability]"
+        "ru"            "[Для использования способности остановитесь]"
+    }
+
+	///
+	"ZOMBIE_CLASS_SPITTER_HUD_BUTTON"
+    {
+        "en"            "[Acid spit - MOUSE2]"
+        "ru"            "[Кислотный плевок - MOUSE2]"
+    }
+	"ZOMBIE_CLASS_SPITTER_HUD_COOLDOWN"
+    {
+		"#format"		"{1:.1f}"
+        "en"            "[Ability recharge: {1}]"
+        "ru"            "[Перезарядка способности: {1}]"
+    }
+	"ZOMBIE_CLASS_SPITTER_HUD_NONE"
+	{
+        "en"            "[Stop to use the ability]"
+        "ru"            "[Для использования способности остановитесь]"
+	}
+	///
+    "ZOMBIE_CLASS_SHAMAN_HUD_BUTTON"
+    {
+        "en"            "CLICK [R]"
+        "ru"            "НАЖМИТЕ [R]"
+    }
+    "ZOMBIE_CLASS_SHAMAN_HUD_COOLDOWN"
+    {
+		"#format"		"{1:d}"
+        "en"            "[RECHARGE {1}]"
+        "ru"            "[ПЕРЕЗАРЯДКА {1}]"
+    }
+	
+	// class tank
+	"ZOMBIE_CLASS_TANK_HUD_BUTTON"
+	{
+        "en"            "[R - reverse damage]"
+        "ru"            "[R - обратный урон]"
+	}
+	"ZOMBIE_CLASS_TANK_HUD_COOLDOWN"
+    {
+		"#format"		"{1:.1f}"
+        "en"            "[Ability recharge: {1}]"
+        "ru"            "[Перезарядка способности: {1}]"
+    }
+	"ZOMBIE_CLASS_TANK_HUD_NONE"
+	{
+        "en"            "[You have to stand on the ground]"
+        "ru"            "[Вы должны стоять на земле]"
+	}
+	"ZOMBIE_CLASS_TANK_HUD_USESKILL"
+	{
+        "en"            "[Ability activated]"
+        "ru"            "[Способность активирована]"
+	}
+	
+	"ZOMBIE_CLASS_NEMESIS_HUD"
+	{
+        "en"            "[Game mode: Nemesis]"
+        "ru"            "[Режим игры: Немесида]"
+	}
+	
+	// class warden
+	"ZOMBIE_CLASS_WARDEN_HUD_COOLDOWN"
+    {
+		"#format"		"{1:.1f}"
+        "en"            "[Ability recharge: {1}]"
+        "ru"            "[Перезарядка способности: {1}]"
+    }
+	"ZOMBIE_CLASS_WARDEN_HUD_BUTTON"
+	{
+        "en"            "[Suck out health - R]"
+        "ru"            "[Высосать здоровье - R]"
+	}
+	"ZOMBIE_CLASS_WARDEN_HUD_BUTTON_STOP"
+	{
+        "en"            "[Cancel the suction - MOUSE1]"
+        "ru"            "[Отменить высасывание - MOUSE1]"
+	}
+	"ZOMBIE_CLASS_WARDEN_HUD_NONE"
+	{
+        "en"            "[Stop to use the ability]"
+        "ru"            "[Для использования способности остановитесь]"
+	}
+	
+	// class witch
+	"ZOMBIE_CLASS_WITCH_HUD_BUTTON"
+	{
+        "en"            "[Accumulating rage - R]"
+        "ru"            "[Накапливать ярость - R]"
+	}
+	"ZOMBIE_CLASS_WITCH_HUD_NONE"
+	{
+        "en"            "[Stop to use the ability]"
+        "ru"            "[Для использования способности остановитесь]"
+	}
+	"ZOMBIE_CLASS_WITCH_HUD_COOLDOWN"
+	{
+		"#format"		"{1:.1f}"
+        "en"            "[Ability recharge: {1}]"
+        "ru"            "[Перезарядка способности: {1}]"
+	}
+	"ZOMBIE_CLASS_WITCH_HUD_COOLDOWN_USESKILL"
+	{
+		"#format"		"{1:.1f}"
+        "en"            "[Accumulating rage {1} | Stop in 5 seconds - MOUSE1]"
+        "ru"            "[Накапливаем ярость {1} | Остановите в 5 сек - MOUSE1]"
+	}
+	"ZOMBIE_CLASS_WITCH_HUD_COOLDOWN_USESPEEDSKILL"
+	{
+		"#format"		"{1:.1f}"
+        "en"            "[Rage activated - {1}]"
+        "ru"            "[Ярость активирована - {1}]"
+	}
+}

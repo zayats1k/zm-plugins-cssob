@@ -1,0 +1,96 @@
+"Phrases"
+{
+	// =========================== [menu group] ===========================
+	"VIP"
+	{
+		"en"			" [VIP]"
+		"ru"			" [VIP]"
+	}
+	"VIP, SUPERVIP"
+	{
+		"en"			" [VIP]"
+		"ru"			" [VIP]"
+	}
+	"SUPERVIP"
+	{
+		"en"			" [SUPER VIP]"
+		"ru"			" [SUPER VIP]"
+	}
+
+	// =========================== [Menus] ===========================
+	"main menu"
+	{
+		"en"			"Server Menu\n "
+		"ru"			"Меню сервера\n "
+	}
+	"menu online"
+	{
+		"#format"		"{1:d}"
+		"en"			" [{1}]"
+		"ru"			" [{1}]"
+	}
+	"menu empty"
+	{
+		"en"			"(Empty)"
+		"ru"			"(Пусто)"
+	}
+	"menu price"
+	{
+		"#format"		"{1:d}"
+		"en"			" [${1}]"
+		"en"			" [${1}]"
+	}
+	"menu level"
+	{
+		"#format"		"{1:d}"
+		"en"			" [{1} Level]"
+		"ru"			" [с {1} уровня]"
+	}
+	"menu weapon"
+	{
+		"en"			" [Purchased]"
+		"ru"			" [Выбрано]"
+	}
+	"dead"
+	{
+		"en"			"Dead"
+		"ru"			"Dead"
+	}
+	
+	// ======================================================
+	"shop menu"
+	{
+		"en"			"[Shop]"
+		"ru"			"[Магазин]"
+	}
+	"market menu"
+	{
+		"en"			"[Choose weapon]"
+		"ru"			"[Выбрать оружие]"
+	}
+	"vip menu"
+	{
+		"en"			"[VIP Menu]"
+		"ru"			"[VIP-меню]"
+	}
+	"top menu"
+	{
+		"en"			"[Top player]"
+		"ru"			"[Топ игроков]"
+	}
+	"rank menu"
+	{
+		"en"			"[Rank]"
+		"ru"			"[Моя статистика]"
+	}
+	"hats menu"
+	{
+		"en"			"[Hats, mask]"
+		"ru"			"[Шапки, маски]"
+	}
+	"settings menu"
+	{
+		"en"			"[Settings]"
+		"ru"			"[Настройки]"
+	}
+}

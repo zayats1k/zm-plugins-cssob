@@ -1,0 +1,125 @@
+"Phrases"
+{
+	// =========================== [Messages] ===========================
+	"no access"
+	{
+		"ru"			"No access!"
+		"en"			"Нет доступа!"
+	}
+	"block selecting target"
+	{
+		"en"			"Invalid target!"
+		"ru"			"Неверная цель!"
+	}
+	"block starting round"
+	{
+		"en"			"You can't start a gamemode, because one has already begun!"
+		"ru"			"Вы не можете начать раунд, потому что он уже запущен!"
+	}
+	"block classes round"
+	{
+		"en"			"You can't change your class, because the round hasn't started yet!"
+		"ru"			"Вы не можете поменять класс, потому что раунд не начат!"
+	}
+	"block using menu"
+	{
+		"en"			"You can't use the menu!"
+		"ru"			"Вы не можете использовать меню!"
+	}
+	"block jointeam"
+	{
+		"en"			"Lock: #98FB981 ZOMBIES, 2 SURVIVORS, 5 AUTO-ASSIGNMENT \n[ZM] {default}Unlock: #98FB986 SURVEILLANCE"
+		"ru"			"Блокировка: #98FB981 ЗОМБИ, 2 ВЫЖИВШИХ, 5 АВТОНАЗНАЧЕНИЕ \n[ZM] {default}Разблокировка: #98FB986 НАБЛЮДЕНИЕ"
+	}
+	
+	// =========================== [Teleport] ===========================
+	"teleport restricted escape"
+	{
+		"en"			"Teleport is restricted on non-escape modes."
+		"ru"			"Телепорт ограничен для режимов без выживания."
+	}
+	"teleport restricted zombie"
+	{
+		"en"			"Teleport is restricted for zombies at this time."
+		"ru"			"Телепорт ограничен для зомби."
+	}
+	"teleport restricted human"
+	{
+		"en"			"Teleport is restricted for humans at this time."
+		"ru"			"Телепорт ограничен для людей."
+	}
+	"teleport max"
+	{
+		"#format"		"{1:d}"
+		"en"			"You have reached your max of {1} teleport(s) per round."
+		"ru"			"Вы достигли своего максимума {1} телепорта(ов) за раунд."
+	}
+	"teleport in progress"
+	{
+		"en"			"You are currently pending teleportation."
+		"ru"			"В данный момент вы ожидаете телепортации."
+	}
+	"teleport autocancel text"
+	{
+		"#format"		"{1:d}"
+		"en"			"Teleport has been cancelled. (Restrictive boundary is {1}ft.)"
+		"ru"			"Телепортация отменена. (Ограничительная граница {1}мт.)"
+	}
+	"teleport countdown"
+	{
+		"#format"		"{1:d}"
+		"en"			"Teleporting back to spawn in: {1} sec."
+		"ru"			"Телепортация обратно на спавн за: {1} сек."
+	}
+	"teleport autocancel centertext"
+	{
+		"en"			"Teleport has been cancelled."
+		"ru"			"Телепортация отменена."
+	}
+	"teleport countdown end"
+	{
+		"#format"		"{1:d},{2:d}"
+		"en"			"Teleported back to spawn. (Count: {1}/{2})"
+		"ru"			"Телепортировался обратно на cпавн. (Кол-во: {1}/{2})"
+	}
+	"teleport command force successful"
+	{
+		"#format"		"{1:s}"
+		"en"			"Player {1} was successfully teleported."
+		"ru"			"Игрок {1} был успешно телепортирован."
+	}
+	"teleport command force unsuccessful"
+	{
+		"#format"		"{1:s}"
+		"en"			"Player {1} couldn't be teleported."
+		"ru"			"Игрока {1} нельзя было телепортировать."
+	}
+	
+	// =========================== [ZAdmin menu] ===========================
+	"zadmin main title"
+	{
+		"en"			"ZAdmin menu: "
+		"ru"			"ZAdmin menu: "
+	}
+	"zadmin main classes"
+	{
+		"en"			"Classes management"
+		"ru"			"Управление классы"
+	}
+	"zadmin main force teleport"
+	{
+		"en"			"Force teleport"
+		"ru"			"Телепортировать игрока"
+	}
+	"zadmin main modes"
+	{
+		"en"			"Game modes"
+		"ru"			"Игровые режимы"
+	}
+	
+	"zadmin modes option"
+	{
+		"en"			"Player options\n "
+		"ru"			"Опции игрока\n "
+	}
+}

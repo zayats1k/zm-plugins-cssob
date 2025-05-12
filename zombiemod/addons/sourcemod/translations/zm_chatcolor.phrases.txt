@@ -1,0 +1,83 @@
+"Phrases"
+{
+	"DEAD"
+	{
+        "en"			"[Dead]"
+        "ru"			"[Убит]"
+	}
+	"zombie_classic"
+	{
+        "en"            "#cc0101[Zombie]"
+        "ru"            "#cc0101[Зомби]"
+	}
+	"human_mechanic"
+    {
+        "en"            "#1E90FF[Human]"
+        "ru"            "#1E90FF[Человек]"
+    }
+	"human_survivor"
+    {
+        "en"            "#1E90FF[Survivor]"
+        "ru"            "#1E90FF[Выживший]"
+    }
+	"human_zoey"
+    {
+        "en"            "#1E90FF[Human]"
+        "ru"            "#1E90FF[Человек]"
+    }
+	"mother_zombie"
+    {
+        "en"            "#cc0101[Mother]"
+        "ru"            "#cc0101[Mother]"
+    }
+	"zombie_boomer"
+    {
+        "en"            "#cc0101[Boomer]"
+        "ru"            "#cc0101[Толстяк]"
+    }
+	"zombie_witch"
+    {
+        "en"            "#cc0101[Witch]"
+        "ru"            "#cc0101[Witch]"
+    }
+	"zombie_smoker"
+    {
+        "en"            "#cc0101[Smoker]"
+        "ru"            "#cc0101[Смокер]"
+    }
+	"zombie_hunter"
+    {
+        "en"            "#cc0101[Hunter]"
+        "ru"            "#cc0101[Охотник]"
+    }
+	"zombie_spitter"
+    {
+        "en"            "#cc0101[Spitter]"
+        "ru"            "#cc0101[Плевальщица]"
+    }
+	"zombie_acidheadcrab"
+    {
+        "en"            "#cc0101[Headcrab]"
+        "ru"            "#cc0101[Хедкраб]"
+    }
+	"zombie_invisible"
+    {
+        "en"            "#cc0101[Invisible]"
+        "ru"            "#cc0101[Невидимка]"
+    }
+	"zombie_tank"
+	{
+        "en"            "#cc0101[Tank]"
+        "ru"            "#cc0101[Танк]"
+    }
+	"zombie_nemesis"
+	{
+        "en"            "#cc0101[Nemesis]"
+        "ru"            "#cc0101[Немезида]"
+    }
+	"zombie_warden"
+	{
+        "en"            "#cc0101[Hiller]"
+        "ru"            "#cc0101[Хиллер]"
+    }
+}

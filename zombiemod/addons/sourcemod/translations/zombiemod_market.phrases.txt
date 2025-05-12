@@ -1,0 +1,99 @@
+"Phrases"
+{
+	"main market"
+	{
+		"en"			"[Choose weapon]\n "
+		"ru"			"[Выбрать оружие]\n "
+	}
+	"main market 2"
+	{
+		"en"			"[Выбор пистолета]\n "
+		"ru"			"[Выбор пистолета]\n "
+	}
+	
+	////////////////////////////////
+	"market favorites menu"
+	{
+		"en"			"Favorites\n "
+		"ru"			"Избранное\n "
+	}
+	"market favorite add"
+	{
+		"en"			"Add\n \nRemove"
+		"ru"			"Добавить\n \nУдалить"
+	}
+	"market favorite add 2"
+	{
+		"en"			"Add\n "
+		"ru"			"Добавить\n "
+	}
+	"market favorite start"
+	{
+		"en"			"Market favorite give (change !guns)"
+		"ru"			"Выдано ваше избранное оружие (сменить !guns)"
+	}
+	"favorite added"
+	{
+		"#format"		"{1:s}"
+		"en"			"Favorite added: #98FB98{1}"
+		"ru"			"Добавлено в избранное: #98FB98{1}"
+	}
+	"favorite deleted"
+	{
+		"#format"		"{1:s}"
+		"en"			"Favorite deleted: #98FB98{1}"
+		"ru"			"Убрано из избранного: #98FB98{1}"
+	}
+	"favorite saved"
+	{
+		"en"			"Favorite saved"
+		"ru"			"Избранное сохранено"
+	}
+	
+	////////////////////////////////
+	"primary"
+	{
+		"en"			"Primary weapon"
+		"ru"			"Основное оружие"
+	}
+	"secondary"
+	{
+		"en"			"Secondary weapon"
+		"ru"			"Пистолеты"
+	}	
+	"pistols"
+	{
+		"en"			"Pistols"
+		"ru"			"Пистолеты"
+	}
+	"shotguns"
+	{
+		"en"			"Shotguns"
+		"ru"			"Дробовики"
+	}
+	"rifles"
+	{
+		"en"			"Rifles"
+		"ru"			"Винтовки"
+	}
+	"snipers"
+	{
+		"en"			"Snipers"
+		"ru"			"Снайперские винтовки"
+	}
+	"machineguns"
+	{
+		"en"			"Machine guns"
+		"ru"			"Пулеметы"
+	}
+	"equipments"
+	{
+		"en"			"Equipment"
+		"ru"			"Обмундирование"
+	}
+	"knifes"
+	{
+		"en"			"Melee"
+		"ru"			"Ножи"
+	}
+}

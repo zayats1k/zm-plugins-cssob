@@ -1,0 +1,154 @@
+"Phrases"
+{
+    "ENABLE"
+    {
+        "en"        "[+]"
+        "ru"        "[+]"
+    }
+    "DISABLE"
+    {
+        "en"        "[-]"
+        "ru"        "[-]"
+    }
+	"NEW"
+	{
+		"en"        "[New]"
+		"ru"        "[Новый]"
+	}
+	"OLD"
+	{
+		"en"        "[Old]"
+		"ru"        "[Старый]"
+	}
+
+	///////////////////////////////////////////////////////
+    "MENU_SETTINGS_SOUNDS"
+    {
+        "en"        "Sound effects"
+        "ru"        "Звуковые эффекты"
+    }
+    "MENU_RELOAD_SOUND"
+    {
+        "en"        "Recharge Sounds"
+        "ru"        "Звуки перезарядки"
+    }
+    "MENU_GRENADE_SOUND"
+    {
+        "en"        "Sounds of grenades"
+        "ru"        "Звуки гранат"
+    }
+    "MENU_DEATH_SOUND"
+    {
+        "en"        "Sounds of killing"
+        "ru"        "Звуки убийств"
+    }
+    "MENU_COUNTER_SOUND"
+    {
+        "en"        "Countdown Sounds"
+        "ru"        "Звуки отсчёта"
+    }
+    "MENU_WARN_SOUND"
+    {
+        "en"        "Warning sounds"
+        "ru"        "Предупреждения звуки"
+    }
+	"MENU_ROUNDSTART_SOUND"
+	{
+        "en"        "Round start sounds"
+        "ru"        "Звуки в начале раунда"
+	}
+	"MENU_AMBIENCE_SOUND"
+	{
+        "en"        "Ambience sounds"
+        "ru"        "Фоновые звуки"
+	}
+	"MENU_ZOMBIE_VOICE_SOUND"
+	{
+        "en"        "Hero/Zombies sounds"
+        "ru"        "Крики зомби звуки"
+	}
+	"MENU_WEAPONS_SOUND"
+	{
+		"en"        "Guns sounds"
+		"ru"        "Звуки оружий"
+	}
+	"MENU_ROUNDEND_SOUND"
+	{
+		"en"        "Round end sounds"
+		"ru"        "Звуки в конце раунда"
+	}
+	"MENU_HUMAN_VOICE_SOUND" // sounds/zombie-plague/human/
+	{
+		"en"        "Human voice sounds"
+		"ru"        "Звуки озвучивания персонажа"
+	}
+	"MENU_PRESENT_SOUND" // sounds: present_spawn.wav, zp_itempickup.wav, zp_itemdrop.wav
+	{
+		"en"        "Sounds spawn presents"
+		"ru"        "Звуки появления подарков"
+	}
+	
+	//////////////////////////////////////////////////
+	"MENU_SETTINGS_HUDS"
+	{
+		"en"        "Hud"
+		"ru"        "Худ"
+	}
+	"MENU_LS_INFO_HUD"
+	{
+		"en"        "ls info hud"
+		"ru"        "Худ статистики"
+	}
+	"MENU_COUNTER_HUD"
+	{
+		"en"        "Counter Hud"
+		"ru"        "Худ отсчёта"
+	}
+	"MENU_BUTTONS_HUD"
+	{
+		"en"        "Buttons Hud"
+		"ru"        "Худ комбинаций"
+	}
+	"MENU_EDICTS_HUD"
+	{
+		"en"        "Tracking Edicts"
+		"ru"        "Отслеживание Edicts"
+	}
+	"MENU_CLASS_HUD"
+	{
+		"en"        "Hud tips settings"
+		"ru"        "Внешний вид подсказок"
+	}
+	"MENU_GAMEMODES_HUD"
+	{
+		"en"        "Hud game modes"
+		"ru"        "Худ режима игры"
+	}
+	"MENU_AMMOPACKS_HUD"
+	{
+		"en"        "MENU_SETTING_AMMOPACKS_HUD"
+		"ru"        "MENU_SETTING_AMMOPACKS_HUD"
+	}
+	"MENU_PROP_HEALTH_HUD"
+	{
+		"en"        "Hud health props"
+		"ru"        "Худ здоровья пропсов"
+	}
+	
+	//////////////////////////////////////////////////
+	"MENU_SETTINGS_MENUS"
+	{
+		"en"        "Personal settings"
+		"ru"        "Персональные настройки"
+	}
+	"MENU_RESPAWN_ZOMBIE_CLASSMENU"
+	{
+		"en"        "Respawn choose zombie menu"
+		"ru"        "Меню выбора зомби при респавне"
+	}
+	"MENU_SPAWN_PLAYER_GUNMENU"
+	{
+		"en"        "Respawn choose guns menu"
+		"ru"        "Меню выбора оружия при респавне"
+	}
+}

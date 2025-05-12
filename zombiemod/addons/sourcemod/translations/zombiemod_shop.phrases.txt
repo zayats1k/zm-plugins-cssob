@@ -1,0 +1,365 @@
+"Phrases"
+{
+	"MENU_SHOP_HUMAN_TITLE"
+	{
+        "en"			"Shop player\n "
+        "ru"			"Магазин игрока\n "
+	}
+	"MENU_SHOP_ZOMBIE_TITLE"
+    {
+        "en"			"Shop player\n "
+        "ru"			"Магазин игрока\n "
+    }
+	"MENU_SHOP_WEAPONS"
+    {
+        "en"			"[Buy special weapons]"
+        "ru"			"[Покупка спец. оружия]"
+    }
+	"MENU_SHOP_ITEMS"
+    {
+        "en"			"[Buy items]"
+        "ru"			"[Покупка айтемов]"
+    }
+	"MENU_SHOP_ITEMS2"
+	{
+		"en"			"[Buy vip and skin][30 days]"
+		"ru"			"[Покупка VIP или Скина][30 дней]"
+	}
+	"MENU_SHOP_PROPS"
+    {
+		"en"			"[Buy props]"
+		"ru"			"[Покупка баррикады]"
+    }
+	"MENU_SHOP_PROPS_2"
+	{
+		"#format"		"{1:d}"
+		"en"			"[Props menu][{1}]\n "
+		"ru"			"[Меню баррикад][{1}]\n "
+	}
+	
+	// ==============================================
+	"HUMAN_MENU_ITEM_VIP"
+	{
+        "en"			"VIP "
+        "ru"			"VIP "
+	}
+	"HUMAN_MENU_ITEM_SUPERVIP"
+	{
+        "en"			"SUPER VIP "
+        "ru"			"SUPER VIP "
+	}
+	"HUMAN_MENU_ITEM_SKIN1"
+	{
+        "en"			"Agent [Crysis] "
+        "ru"			"Agent [Crysis] "
+	}
+	"HUMAN_MENU_ITEM_SKIN2"
+	{
+        "en"			"Gena [Lacoste] "
+        "ru"			"Gena [Lacoste] "
+	}
+	"HUMAN_MENU_ITEM_SKIN3"
+	{
+        "en"			"Joker [Cinema] "
+        "ru"			"Joker [Cinema] "
+	}
+	
+	// ==============================================
+	"HUMAN_MENU_ITEM_ARMOR"
+	{
+        "en"			"HUMAN_MENU_ITEM_ARMOR [50 Armour]"
+        "ru"			"HUMAN_MENU_ITEM_ARMOR [50 Armour]"
+	}
+	"HUMAN_MENU_ITEM_FREEZE"
+	{
+        "en"			"HUMAN_MENU_ITEM_FREEZE "
+        "ru"			"HUMAN_MENU_ITEM_FREEZE "
+	}
+	"HUMAN_MENU_ITEM_M3SHARK"
+	{
+        "en"			"Buy M3 Shark [Shotgun] "
+        "ru"			"Купить M3 Shark [Дробовик] "
+	}
+	"HUMAN_MENU_ITEM_AMMOCRATE"
+	{
+        "en"			"Buy ammo for commands "
+        "ru"			"Купить патроны для команды "
+	}
+	"HUMAN_MENU_ITEM_ETHEREAL"
+	{
+        "en"			"Buy Ethereal [Laser Rifle] "
+        "ru"			"Купить Ethereal [Лазер. Винтовка] "
+	}
+	"HUMAN_MENU_ITEM_AMMO"
+	{
+        "en"			"Buy ammo"
+        "ru"			"Купить патроны"
+	}
+	"HUMAN_MENU_ITEM_TRIPMINE"
+	{
+        "en"		"Buy Tripmines [Laser Mines] "
+		"ru"		"Купить Tripmine [Лазерные мины] "
+	}
+	"HUMAN_MENU_ITEM_HPWARD"
+	{
+        "en"			"Buy Heal-ward "
+        "ru"			"Купить Хил-вард "
+	}
+	"HUMAN_MENU_ITEM_PARACHUTE"
+	{
+        "en"			"Buy Parachute "
+        "ru"			"Купить Парашут "
+	}
+	"HUMAN_MENU_ITEM_RPG"
+    {
+        "en"			"Buy RPG [Grenade launcher] "
+        "ru"			"Купить RPG [Гранатомёт] "
+    }
+	"HUMAN_MENU_ITEM_M249"
+	{
+        "en"			"Buy M249 "
+        "ru"			"Купить M249 "
+	}
+	"HUMAN_MENU_ITEM_MP5GITAR"
+	{
+        "en"			"Buy AR-1 Gitar [Rifle] "
+		"ru"			"Купить AR-1 Гитара [Винтовка] "
+	}
+	"HUMAN_MENU_ITEM_THUNDERBOLT"
+	{
+        "en"			"Buy Thunderbolt [Sniper] "
+        "ru"			"Купить Thunderbolt [Снайпер] "
+	}
+	"HUMAN_MENU_ITEM_SALAMANDER"
+	{
+        "en"			"Buy Salamander [Flamethrower] "
+        "ru"			"Купить Salamander [Огнемёт] "
+	}
+	"HUMAN_MENU_ITEM_M32"
+	{
+        "en"			"Buy M32 [Grenade launcher] "
+        "ru"			"Купить M32 [Гранатомёт] "
+	}
+	"HUMAN_MENU_ITEM_SG550"
+	{
+        "en"			"Buy SG550 "
+        "ru"			"Купить SG550 "
+	}
+	"HUMAN_MENU_ITEM_FROSTGUN"
+	{
+        "en"			"Buy Frostgun [Watergun] "
+        "ru"			"Купить Frostgun [Водяной] "
+	}
+	"HUMAN_MENU_ITEM_M134"
+	{
+        "en"			"Buy M134 [Minigun] "
+        "ru"			"Купить M134 [Миниган] "
+	}
+	"HUMAN_MENU_ITEM_DINFINITY"
+	{
+        "en"			"Buy Dual Infinity [Pistols] "
+        "ru"			"Купить Dual Infinity [Пистолеты] "
+	}
+	"HUMAN_MENU_ITEM_SHIELDGRENADE"
+	{
+		"en"			"Buy Shield [Grenade] "
+		"ru"			"Купить Щит [Граната] "
+	}
+	"HUMAN_MENU_ITEM_GAUSS"
+	{
+        "en"			"Buy Gaus [Gaus gun] "
+        "ru"			"Купить Gaus [Гаус пушка] "
+	}
+	"HUMAN_MENU_ITEM_AWP_BUFF"
+	{
+        "en"			"Buy AWP Buff [Sniper] "
+        "ru"			"Купить AWP Buff [Снайпер] "
+	}
+	"HUMAN_MENU_ITEM_LASERFIST"
+    {
+        "en"            "Buy Infinity Laser [Pistols]  "
+        "ru"            "Купить Infinity Laser [Пистолеты] "
+    }
+	"ZOMBIE_MENU_ITEM_ANTIDOTE"
+    {
+        "en"			"[Buy Antidote] "
+        "ru"			"[Купить Антидот] "
+    }
+	"ZOMBIE_INVISIBLE_MENU_ITEM_HP"
+    {
+        "en"			"[Additional 1000 HP] "
+        "ru"			"[Дополнительные 1000 HP] "
+    }
+	"ZOMBIE_TANK_MENU_ITEM_HP"
+    {
+        "en"			"[Additional 3000 HP] "
+        "ru"			"[Дополнительные 3000 HP] "
+    }
+	"ZOMBIE_BOOMER_MENU_ITEM_HP"
+    {
+        "en"			"[Additional 2000 HP] "
+        "ru"			"[Дополнительные 2000 HP] "
+    }
+	"ZOMBIE_HUNTER_MENU_ITEM_HP"
+    {
+        "en"			"[Additional 1000 HP] "
+        "ru"			"[Дополнительные 1000 HP] "
+    }
+	"ZOMBIE_SMOKER_MENU_ITEM_HP"
+    {
+        "en"			"[Additional 2000 HP]"
+        "ru"			"[Дополнительные 2000 HP]"
+    }
+	"ZOMBIE_WARDEN_MENU_ITEM_HP"
+    {
+        "en"			"[Additional 2500 HP] "
+        "ru"			"[Дополнительные 2500 HP] "
+    }
+	"ZOMBIE_SPITTER_MENU_ITEM_HP"
+    {
+        "en"			"[Additional 2000 HP] "
+        "ru"			"[Дополнительные 2000 HP] "
+    }
+	"ZOMBIE_ACIDHEADCRAB_MENU_ITEM_HP"
+    {
+        "en"			"[Additional 1500 HP] "
+        "ru"			"[Дополнительные 1500 HP] "
+    }
+	"ZOMBIE_WITCH_MENU_ITEM_HP"
+	{
+        "en"			"[Additional 1900 HP] "
+        "ru"			"[Дополнительные 1900 HP] "
+	}
+	"ZOMBIE_CLASSIN_MENU_ITEM_HP"
+	{
+        "en"			"[Additional 3000 HP] "
+        "ru"			"[Дополнительные 3000 HP] "
+	}
+	
+	// ----------------------------------------------------- 1
+	"ZOMBIE_TANK_MENU_ITEM_DMG_SKILL"
+	{
+        "en"			"[Boost ability damage] "
+        "ru"			"[Прокачать урон от способности] "
+	}
+	"ZOMBIE_BOOMER_MENU_ITEM_DMG_SKILL"
+	{
+        "en"			"[Boost ability damage] "
+        "ru"			"[Прокачать урон от способности] "
+	}
+	"ZOMBIE_WARDEN_MENU_ITEM_DMG_SKILL"
+	{
+        "en"			"[Boost ability damage] "
+        "ru"			"[Прокачать урон от способности] "
+	}
+	"ZOMBIE_HUNTER_MENU_ITEM_JUMP_SKILL"
+	{
+        "en"			"[Boost jump range] "
+        "ru"			"[Прокачать дальность прыжка] "
+	}
+	
+	// ----------------------------------------------------- 2
+	"ZOMBIE_TANK_MENU_ITEM_TIMER_SKILL" // Return Time
+	{
+        "en"			"[Upgrade the duration of the ability] "
+        "ru"			"[Прокачать время действия способности] "
+	}
+	"ZOMBIE_WARDEN_MENU_ITEM_HEAL_SKILL"
+	{
+        "en"			"[Upgrade regen from ability] "
+        "ru"			"[Увеличенный реген от способности] "
+	}
+	"ZOMBIE_BOOMER_MENU_ITEM_DMG_EXPLODE_SKILL"
+	{
+        "en"			"[Boost explosion damage] "
+        "ru"			"[Прокачать урон от взрыва] "
+	}
+	
+	// ----------------------------------------------------- 3
+	"ZOMBIE_MENU_ITEM_CLASSES"
+	{
+        "en"			"[Buy all classes] "
+        "ru"			"[Выкупить все классы] "
+	}
+	
+	// ----------------------------------------------------- PROPS MENU
+	"MENU_TRANSLATION_1"
+	{
+		"en"			"Шкафчик "
+		"ru"			"Шкафчик "
+	}
+	"MENU_TRANSLATION_2"
+	{
+		"en"			"Деревянная бочка "
+		"ru"			"Деревянная бочка "
+	}
+	"MENU_TRANSLATION_3"
+	{
+		"en"			"Железная бочка "
+		"ru"			"Железная бочка "
+	}
+	
+	// -----------------------------------------------------
+	"CHAT_ARMOR_MAX"
+	{
+		"en"			"CHAT_ARMOR_MAX"
+		"ru"			"CHAT_ARMOR_MAX"
+	}
+	"CHAT_NO_AMMOPACKS"
+    {
+        "en"			"You don't have enough ammo packs."
+        "ru"			"У вас недостаточно аммо паков."
+    }
+	"CHAT_WEAPON_NO_AMMOPACKS"
+    {
+		"#format"		"{1:d}"
+        "en"			"You are missing #98FB98{1}{default} Ammo."
+        "ru"			"Вам не хватает #98FB98{1}{default} Аммо."
+    }
+	"CHAT_ANTIDOTE_ZOMBIES" // zombie 3
+    {
+        "en"			"There are too few zombies to use the Antidote."
+        "ru"			"Слишком мало зомби для использования Антидота."
+    }
+	"CHAT_IS_ONGROUND"
+    {
+        "en"			"You can't set a word in the air"
+        "ru"			"Нельзя установить вард в воздухе"
+    }
+	"CHAT_BLOCK_WEAPONS"
+	{
+        "en"			"You don't have a gun."
+        "ru"			"У вас нету оружия."
+	}
+	"CHAT_WEAPON_AMMO_MAX"
+	{
+        "en"			"You have full ammunition!"
+        "ru"			"У вас полный боезапас!"
+	}
+	"ammopack 1"
+    {
+        "en"            "Ammo Pack"
+        "ru"            "Аммо пак"
+    }
+	"ammopack 2"
+    {
+        "en"            "Ammo"
+        "ru"            "Аммо"
+    }
+	"VIP PickMenu"
+	{
+        "en"            "FREE"
+        "ru"            "FREE"
+	}
+	"HUD_ANTIDOTE"
+    {
+		"#format"		"{1:N}"
+        "en"            "Took the antidote: {1}"
+        "ru"            "Принял антидот: {1}"
+	}
+	"CHAT_PARACHUTE_STOP"
+	{
+        "en"            "OFF PARACHUTE PRESS [SPACE]"
+        "ru"            "Выключить парашут [SPACE]"
+	}
+}

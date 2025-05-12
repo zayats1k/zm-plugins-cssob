@@ -1,0 +1,87 @@
+"Phrases"
+{
+	// =========================== [Hud] ===========================
+	"countdown timer"
+	{
+		"#format"		"{1:d}"
+		"en"			"[First infection in {1}]"
+		"ru"			"[До начала заражения {1}]"
+	}
+	"respawn timer"
+	{
+		"#format"		"{1:d}"
+		"en"			"[Respawn timer {1}]"
+		"ru"			"[Возрождение через {1}]"
+	}
+	"respawn death"
+	{
+		"en"			"[You are dead]\n[Wait for the first zombies]"
+		"ru"			"[Вы погибли]\n[Ждите первых зомби]"
+	}
+	"respawn timer button"
+	{
+		"#format"		"{1:d}"
+		"en"			"[To revive press - E] [{1}]"
+		"ru"			"[Для возрождения нажмите - E] [{1}]"
+	}
+	"respawn timer stuck"
+	{
+		"#format"		"{1:d}"
+		"en"			"[To revive press - E] [{1}]"
+		"ru"			"[Для возрождения нажмите - E] [{1}]"
+	}
+	"warmup waiting"
+	{
+		"#format"		"{1:d}"
+		"en"			"Warmup: Waiting for {1} more players to join."
+		"ru"			"Готовность: Ждём еще {1} игроков для начала."
+	}
+	"warmup timer"
+	{
+		"#format"		"{1:d}"
+		"en"			"Warmup: {1}"
+		"ru"			"Готовность: {1}"
+	}
+	
+	"humans win"
+	{
+		"en"			"[Humans WIN!]"
+		"ru"			"[Люди одержали победу]"
+	}
+	"zombies win"
+	{
+		"en"			"[Zombies WIN!]"
+		"ru"			"[Зомби одержали победу]"
+	}
+	
+	"start normal mode"
+	{
+		"en"			"[Game mode: Classic]"
+		"ru"			"[Режим игры: Заражение]"
+	}
+	"start nemesis mode"
+	{
+		"en"			"[Game mode: Nemesis]"
+		"ru"			"[Режим игры: Немезида]"
+	}
+	"start survivor mode"
+	{
+		"en"			"[Game mode: Survivor]"
+		"ru"			"[Режим игры: Выживший]"
+	}
+	"start swarm mode"
+	{
+		"en"			"[Game mode: Swarm]"
+		"ru"			"[Режим игры: Куча на кучу]"
+	}
+	"start escape mode"
+	{
+		"en"			"[Game mode: Zombie Escape]"
+		"ru"			"[Режим игры: Прохождение]"
+	}
+	"start sniper mode"
+	{
+		"en"			"[Game mode: Sniper]"
+		"ru"			"[Режим игры: Снайпер]"
+	}
+}

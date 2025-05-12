@@ -1,0 +1,45 @@
+"Phrases"
+{
+	"costumes menu"
+	{
+		"en"			"Hats/costumes\n "
+		"ru"			"Шапки/костюмы\n "
+	}
+	"costumes remove"
+	{
+		"en"			"Remove"
+		"ru"			"Убрать"
+	}
+	
+	////////////////////////////
+	"santahat"
+	{
+		"en"			"Santa hat"		
+		"ru"			"Шапка санты"
+	}
+	"pig head"
+	{
+		"en"			"Pig head"
+		"ru"			"Свинная голова"
+	}
+	"horse head"
+	{
+		"en"			"Horse head"
+		"ru"			"Лошадиная голова"
+	}
+	"head crab"
+	{
+		"en"			"Head crab"
+		"ru"			"ХедКраб"
+	}
+	"cow boy"
+	{
+		"en"			"Cow boy"
+		"ru"			"Ковбой"
+	}
+	"chicken"
+	{
+		"en"			"Chicken"
+		"ru"			"Курица"
+	}
+}

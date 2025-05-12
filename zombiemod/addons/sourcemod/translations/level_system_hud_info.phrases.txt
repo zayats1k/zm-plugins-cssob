@@ -1,0 +1,119 @@
+"Phrases"
+{
+	// {LVL}, {EXP}, {EXPD}, {AP}, {CLASS}, \n
+	
+	"HUD_PLAYER_HUMAN"
+	{
+		"en"			"[{CLASS} | {AP} Ammo packs]"
+		"ru"			"[{CLASS} | {AP} Аммо паков]"
+	}
+	"HUD_PLAYER_ZOMBIE"
+	{
+		"en"			"[{CLASS} | {AP} Ammo packs]"
+		"ru"			"[{CLASS} | {AP} Аммо паков]"
+	}
+	"HUD_PLAYER_HUMAN_2"
+	{
+		"en"			"[{CLASS}]"
+		"ru"			"[{CLASS}]"
+	}
+	"HUD_PLAYER_ZOMBIE_2"
+	{
+		"en"			"[{CLASS}]"
+		"ru"			"[{CLASS}]"
+	}
+	
+	////////////////////////////////////////////
+	"HUD_PLAYER_ALIVE"
+	{
+		"en"			"[{AP} Ammo packs]"
+		"ru"			"[{AP} Аммо паков]"
+	}
+	"HUD_TARGET_ALIVE"
+	{
+		"en"			"[{CLASS} | {AP} Ammo packs]"
+		"ru"			"[{CLASS} | {AP} Аммо паков]"
+	}
+	"HUD_TARGET_BOT"
+	{
+		"en"			"[{CLASS}]"
+		"ru"			"[{CLASS}]"
+	}
+	"zombie_invisible"
+    {
+        "en"            "Invisible"
+        "ru"            "Невидимка"
+    }
+	"zombie_warden"
+    {
+        "en"            "Hiller"
+        "ru"            "Хиллер"
+    }
+	"zombie_tank"
+	{
+        "en"            "Tank"
+        "ru"            "Танк"
+    }
+	"zombie_hunter"
+    {
+        "en"            "Hunter"
+        "ru"            "Охотник"
+    }
+	"human_mechanic"
+    {
+        "en"            "Human"
+        "ru"            "Человек"
+    }
+	"human_zoey"
+    {
+        "en"            "Human"
+        "ru"            "Человек"
+    }
+	"zombie_boomer"
+    {
+        "en"            "Boomer"
+        "ru"            "Толстяк"
+    }
+	"zombie_smoker"
+    {
+        "en"            "Smoker"
+        "ru"            "Смокер"
+    }
+	"zombie_spitter"
+    {
+        "en"            "Spitter"
+        "ru"            "Ядовитый"
+    }
+	"zombie_nemesis"
+    {
+        "en"            "Nemesis"
+        "ru"            "Немесида"
+    }
+	"zombie_classic"
+	{
+        "en"            "Zombie"
+        "ru"            "Зомби"
+    }
+	"human_survivor"
+    {
+        "en"            "Survivor"
+        "ru"            "Выживший"
+    }
+	"human_sniper"
+    {
+        "en"            "Sniper"
+        "ru"            "Снайпер"
+    }
+	
+	"zombie_acidheadcrab"
+    {
+        "en"            "Headcrab"
+        "ru"            "Хедкраб"
+    }
+	
+	"zombie_witch"
+    {
+        "en"            "Witch"
+        "ru"            "Ведьма"
+    }
+}

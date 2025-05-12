@@ -1,0 +1,179 @@
+"Games"
+{
+	"cstrike"
+	{
+		"Functions"
+		{
+			"GiveDefaultItems"
+			{
+				"signature"		"GiveDefaultItems"
+				"callconv"		"thiscall"
+				"return"		"void"
+				"this"			"entity"
+			}
+			"Event_Killed"
+			{
+				"offset"	"Event_Killed"
+				"hooktype"	"entity"
+				"return"	"void"
+				"this"		"entity"
+				"arguments"
+				{
+					"info"
+					{
+						"type"	"objectptr"
+						"flags"	"byref"
+					}
+				}
+			}
+		}
+		"Offsets"
+		{
+			"VPhysicsCollision"
+			{
+				"windows"	"164"
+				"windows64"	"164"
+				"linux"		"165"
+				"linux64"	"165"
+			}
+			"HandleAnimEvent"
+			{
+				"windows"	"209"
+				"windows64"	"209"
+				"linux"		"210"
+				"linux64"	"210"
+			}
+			"PlayStepSound"
+			{
+				"windows"	"365"
+				"windows64"	"365"
+				"linux"		"366"
+				"linux64"	"366"
+			}
+			"Weapon_ShootPosition"
+			{
+				"windows"	"271"
+				"windows64"	"271"
+				"linux"		"272"
+				"linux64"	"272"
+			}
+			"IsValidObserverTarget"
+			{
+				"windows"	"387"
+				"windows64"	"387"
+				"linux"		"388"
+				"linux64"	"388"
+			}
+			"GetMaxClip"
+			{
+				"windows"	"317"
+				"windows64"	"317"
+				"linux"		"318"
+				"linux64"	"318"
+			}
+			"Touch"
+			{
+				"windows"	"101"
+				"windows64"	"101"
+				"linux"		"102"
+				"linux64"	"102"
+			}
+			"PrimaryAttack"
+			{
+				"windows"	"279"
+				"windows64"	"279"
+				"linux"		"280"
+				"linux64"	"280"
+			}
+			"SecondaryAttack"
+			{
+				"windows"	"280"
+				"windows64"	"280"
+				"linux"		"281"
+				"linux64"	"281"
+			}
+			"GetWeaponMaxSpeed"
+			{
+				"windows"	"373"
+				"windows64"	"373"
+				"linux"		"374"
+				"linux64"	"374"
+			}
+			"Holster"
+			{
+				"windows"	"255"
+				"windows64"	"255"
+				"linux"		"256"
+				"linux64"	"256"
+			}
+			"SendWeaponAnim"
+			{
+				"windows"	"242"
+				"windows64"	"242"
+				"linux"		"243"
+				"linux64"	"243"
+			}
+			"CCSPlayer::GetPlayerMaxSpeed"
+			{
+				"windows"	"445"
+				"windows64"	"445"
+				"linux"		"446"
+				"linux64"	"446"
+			}
+			"CreateRagdollEntity"
+			{
+				"windows"	"432"
+				"windows64"	"432"
+				"linux"		"433"
+				"linux64"	"433"
+			}
+			"Event_Killed"
+			{
+				"windows"	"68"
+				"windows64"	"68"
+				"linux"		"69"
+				"linux64"	"69"
+			}
+			"ItemPostFrame"
+			{
+				"windows"	"265"
+				"windows64"	"265"
+				"linux"		"266"
+				"linux64"	"266"
+			}
+		}
+		"Signatures"
+		{
+			"GiveDefaultItems"
+			{
+				"library"		"server"
+				"linux"			"@_ZN9CCSPlayer16GiveDefaultItemsEv"
+				"windows"		"\x55\x8B\xEC\x83\xEC\x08\x89\x4D\xFC\x6A\x01\x8B\x45\xFC"
+			}
+			"FX_FireBullets"
+			{
+				"library"		"server"
+				"linux"			"@_Z14FX_FireBulletsiRK6VectorRK6QAngleiiifff"
+				"windows"		"\x55\x8B\xEC\x81\xEC\x20\x02\x00\x00\x53\x56"
+			}
+			"LookupAttachment"
+			{
+				"library"		"server"
+				"linux"			"@_ZN14CBaseAnimating16LookupAttachmentEPKc"
+				"windows"		"\x55\x8B\xEC\x56\x8B\xF1\x80\xBE\x31\x03\x00\x00\x00\x75\x2A\x83\xBE\x50\x04\x00\x00\x00\x75\x2A\xE8\x2A\x2A\x2A\x2A\x85\xC0\x74\x2A\x8B\xCE\xE8\x2A\x2A\x2A\x2A\x8B\x86\x50\x04\x00\x00\x85\xC0\x74\x2A\x83\x38\x00\x74\x2A\xFF\x75\x08\x50\xE8\x2A\x2A\x2A\x2A\x83\xC4\x08\x40"
+			}
+			"CCSBot::MoveTo"
+			{
+				"library"		"server"
+				"linux"			"@_ZN6CCSBot6MoveToERK6Vector9RouteType"
+				"windows"		"\x55\x8B\xEC\x8B\x45\x08\xD9\x00\xD9\x99\xF8\x1A\x00\x00"
+			}
+			"CreateServerRagdoll"
+			{
+				"library"		"server"
+				"linux"			"@_Z19CreateServerRagdollP14CBaseAnimatingiRK15CTakeDamageInfoib"
+				"windows"		"\x53\x8B\xDC\x83\xEC\x08\x83\xE4\xF0\x83\xC4\x04\x55\x8B\x6B\x04\x89\x6C\x24\x04\x8B\xEC\xB8\x2A\x2A\x00\x00\xE8\x2A\x2A\x2A\x2A\x8B\x2A\x2A\x56\x57"
+			}
+		}
+	}
+}

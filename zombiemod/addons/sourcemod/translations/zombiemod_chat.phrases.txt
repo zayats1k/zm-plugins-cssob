@@ -1,0 +1,80 @@
+"Phrases"
+{
+	"CHAT_PLAYER_DISTANCE"
+	{
+		"en"			"The player is too far away from you #98FB98 (Distance 50)"
+		"ru"			"Игрок слишком далеко от вас #98FB98(Дистанция 50)"
+	}
+
+	// =========================== [zm donate] ===========================
+	"CHAT_PLAYER_DONATE" // info
+	{
+		"en"			"Aim Target PRESS [E] donate"
+		"ru"			"Aim Target PRESS [E] donate" 
+	}
+	"CHAT_INFO_DONATE1"
+	{
+		"#format"		"{1:d}"
+		"en"			"Player: #98FB98{target} {default}donated: #98FB98{1} {default}Ammo Packs to Player: #98FB98{name}"
+		"ru"			"Игрок: #98FB98{target} {default}передал: #98FB98{1} {default}Аммо Паков игроку: #98FB98{name}"
+	}
+	"CHAT_INFO_DONATE2"
+	{
+		"#format"		"{1:d}"
+		"en"			"Player: #98FB98{name} {default}donated: #98FB98{1} {default}Ammo Packs to Player: #98FB98{target}"
+		"ru"			"Игрок: #98FB98{name} {default}передал: #98FB98{1} {default}Аммо Паков игроку: #98FB98{target}"
+	}
+	
+	// =========================== [zm gunmenu] ===========================
+	"CHAT_PICKWEAPON_ROUND"
+	{
+		"en"			"Вы уже брали оружие в этом раунде."
+		"ru"			"Вы уже брали оружие в этом раунде."
+	}
+	
+	// =========================== [zm steamid] ===========================
+	"CHAT_STEAMID_GIVE_AMMOPACKS"
+    {
+		"#format"		"{1:d}"
+        "en"			"Player #98FB98{target} {default}bought #98FB98+{1} {default}Ammo packs through the website."
+        "ru"			"Игрок #98FB98{target} {default}купил #98FB98+{1} {default}Аммо паков через сайт."
+    }
+	"CHAT_STEAMID_GIVE_SKIN"
+    {
+		"#format"		"{1:s}"
+        "en"			"Player #98FB98{target} {default}bought a personal skin #98FB98{1} {default} via the website."
+        "ru"			"Игрок #98FB98{target} {default}купил персональный скин #98FB98{1} {default}через сайт."
+    }
+	
+	"CHAT_STEAMID_GIVE_VIP"
+	{
+		"#format"		"{1:s}"
+        "en"			"Player #98FB98{target} {default}bought #98FB98{1} {default} via the website."
+        "ru"			"Игрок #98FB98{target} {default}купил #98FB98{1} {default}через сайт."
+	}
+	
+	// =========================== [zm motd cmd] ===========================
+	"CHAT_DISABLEHTML_MOTD"
+	{
+		"en"			"To view the commands, type in the console: #98FB98cl_disablehtmlmotd 0"
+		"ru"			"Для просмотра команд, введите в консоль: #98FB98cl_disablehtmlmotd 0"
+	}
+	"CHAT_SKIN_EXPIRE"
+	{
+		"#format"		"{1:s}"
+        "en"			"CHAT_SKIN_EXPIRE: {1}"
+        "ru"			"CHAT_SKIN_EXPIRE: {1}"
+	}
+	
+	// =========================== [es present] ===========================
+	"CHAT_GIFT_PICKUP"
+	{
+        "en"			"Игрок #98FB98{target} {default}подобрал подарок."
+        "ru"			"Игрок #98FB98{target} {default}подобрал подарок."
+	}
+	"HUD_SPAWN_GIFT"
+	{
+        "en"			"[Подарки доставлены]"
+        "ru"			"[Подарки доставлены]"
+	}
+}

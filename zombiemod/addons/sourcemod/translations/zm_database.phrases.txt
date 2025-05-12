@@ -1,0 +1,146 @@
+"Phrases"
+{
+	"MENU_RANK_PLAYER"
+    {
+		"#format"		"{1:s}"
+        "en"			"[Level] Player: {1}\n "
+        "ru"			"[Level] Игрок: {1}\n "
+    }
+	"MENU_RANK_PLAYTIME"
+    {
+		"#format"		"{1:s}"
+        "en"			"[Played out: {1}]"
+        "ru"			"[Наиграно: {1}]"
+    }
+	"MENU_RANK_OFFLINETIME"
+	{
+		"#format"		"{1:s}"
+        "en"			"[Offline time: {1}]"
+        "ru"			"[Оффлайн: {1}]"
+	}
+	"MENU_RANK_PLACE"
+	{
+		"#format"		"{1:d},{2:d}"
+        "en"			"[Place: {1}/{2}]"
+        "ru"			"[Место: {1}/{2}]"
+	}
+	"MENU_RANK_LEVEL"
+    {
+		"#format"		"{1:d}"
+        "en"			"[Level: {1} | "
+        "ru"			"[Уровень: {1} | "
+    }
+	"MENU_RANK_EXP"
+    {
+		"#format"		"{1:s},{2:s}"
+        "en"			"Xp: {1}/{2}]\n "
+        "ru"			"Опыт: {1}/{2}]\n "
+    }
+	"MENU_RANK_AMMOPACKS"
+    {
+		"#format"		"{1:s}"
+        "en"			"[Ammo packs: {1}]"
+        "ru"			"[Аммо паки: {1}]"
+    }
+	"MENU_RANK_KILLS"
+    {
+		"#format"		"{1:s}"
+        "en"			"[Kills: {1} | "
+        "ru"			"[Убито: {1} | "
+    }
+	"MENU_RANK_DEATHS"
+    {
+		"#format"		"{1:s}"
+        "en"			"Death: {1}]"
+        "ru"			"Смертей: {1}]"
+    }
+	"MENU_RANK_INFECTS"
+    {
+		"#format"		"{1:s}"
+        "en"			"[Infects: {1} | "
+        "ru"			"[Заразил: {1} | "
+    }
+	"MENU_RANK_INFECTED"
+	{
+		"#format"		"{1:s}"
+        "en"			"Infected: {1}]"
+        "ru"			"Заразился: {1}]"
+	}
+	"MENU_RANK_BOSSKILLS"
+	{
+		"#format"		"{1:s}"
+        "en"			"[Boss kills: {1} | "
+        "ru"			"[Убито боссом: {1} | "
+	}
+	"MENU_RANK_BOSS"
+    {
+		"#format"		"{1:s}"
+        "en"			"Kill boss: {1}]\n "
+        "ru"			"Убито боссов: {1}]\n "
+    }
+	"MENU_TOP"
+    {
+		"#format"		"{1:d}"
+        "en"			"[Level] The best players [{1}]\n "
+        "ru"			"[Level] Лучшие игроки [{1}]\n "
+    }
+	"MENU_TOP_PLAYER_LEVEL"
+    {
+		"#format"		"{1:s},{2:d}"
+        "en"			"{1} [Level: {2}]"
+        "ru"			"{1} [Уровень: {2}]"
+    }
+	"MENU_BACK"
+    {
+        "en"			"Back"
+        "ru"			"Назад"
+    }
+	"MENU_EXIT"
+    {
+        "en"			"Exit"
+        "ru"			"Выход"
+    }
+	
+	// level_system_connect
+	"CHAT_CONNECTED"
+    {
+		"#format"		"{1:d},{2:d}"
+		"en"			"#98FB98[ZM] {default}Connected #98FB98(Level: {1} | Ammopacks: {2})"
+		"ru"			"#98FB98[ZM] {default}Успешное подключение #98FB98(Уровень: {1} | Аммо паков: {2})"
+    }
+	"CHAT_WELCOME_CONNECTED"
+    {
+		"en"			"#98FB98[ZM] {default}Hi, #98FB98{name}! {default}Welcome to Zombie Mod"
+		"ru"			"#98FB98[ZM] {default}Привет, #98FB98{name}! {default}Добро пожаловать на Zombie Mod"
+    }
+	"CHAT_PLAYER_WELCOME_CONNECTED"
+    {
+		"en"			"#98FB98[ZM] {default}Player #98FB98{name} {default}logged into the server for the first time!"
+        "ru"			"#98FB98[ZM] {default}Игрок #98FB98{name} {default}впервые зашёл на сервер!"
+    }
+	"CHAT_PLAYER_CONNECTED"
+    {
+		"#format"		"{1:d}"
+		"en"			"#98FB98[ZM] {default}Player #98FB98{name} {default}(Lv. {1}) connected to the game."
+		"ru"			"#98FB98[ZM] {default}Игрок #98FB98{name} {default}(Ур. {1}) зашёл на сервер."
+    }
+	"ROOT_CHAT_PLAYER_WELCOME_CONNECTED"
+    {
+		"#format"		"{1:s},{2:s}"
+		"en"			"#98FB98[ZM] {default}{1} #98FB98{name}({2}) {default}logged into the server for the first time!"
+        "ru"			"#98FB98[ZM] {default}{1} #98FB98{name}({2}) {default}впервые зашёл на сервер!"
+    }
+	"ROOT_CHAT_PLAYER_CONNECTED"
+    {
+		"#format"		"{1:s},{2:s},{3:d}"
+		"en"			"#98FB98[ZM] {default}{1} #98FB98{name}({2}) {default}(Lv. {3}) connected to the game."
+		"ru"			"#98FB98[ZM] {default}{1} #98FB98{name}({2}) {default}(Ур. {3}) зашёл на сервер."
+    }
+	
+	// level_system_exp OFF
+	"CHAT_PLAYPIME_EXP"
+    {
+        "en"            "#98FB98[ZM] {default}You got 80 Exp for playing on the server!"
+        "ru"			"#98FB98[ZM] {default}Вы получили 80 Опыта за игру на сервере!"
+    }
+}

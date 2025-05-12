@@ -1,0 +1,26 @@
+"Phrases"
+{
+	"CHAT_GIVE_SKIN"
+	{
+		"#format" 	"{1:s},{2:s}"
+		"en"		"#98FB98[SKIN] #D3D3D3Your account received the skin: #98FB98{1}#D3D3D3, ends after: #98FB98{2}"
+		"ru"		"#98FB98[SKIN] #D3D3D3На ваш аккаунт получен скин: #98FB98{1}#D3D3D3, заканчивается через: #98FB98{2}"
+	}
+	"CHAT_GIVE_SKIN_UPDATE"
+	{
+		"#format" 	"{1:s}"
+		"en"		"#98FB98[SKIN] #D3D3D3The duration of the skin on the account has been extended, ends after: #98FB98{1}"
+		"ru"		"#98FB98[SKIN] #D3D3D3Время действия скина на аккаунту продлилось, заканчивается через: #98FB98{1}"
+	}
+	"CHAT_SKIN_CONNECT"
+	{
+		"#format" 	"{1:s}"
+		"en"		"#98FB98[SKIN] #D3D3D3Before the end of the personal skin: #98FB98{1}"
+		"ru"		"#98FB98[SKIN] #D3D3D3До окончания персонального скина: #98FB98{1}"
+	}
+	"CHAT_SKIN_EXPIRED" // expired, connect expired, deleted
+	{
+		"en"		"#98FB98[SKIN] #D3D3D3Privilegy #98FB98(Personal skin) #D3D3D3is over!"
+		"ru"		"#98FB98[SKIN] #D3D3D3Привилегия #98FB98(Персональный скин) #D3D3D3истекла!"
+	}
+}
