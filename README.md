@@ -12,4 +12,5 @@ https://forums.alliedmods.net/showthread.php?t=136350
 botattackcontrol v1.0.3
 https://web.archive.org/web/20200623033557/https://bitbucket.org/GoD_Tony/botattackcontrol/downloads/
 
+zombiemod(maps, materials, models, particles, sound)
 https://disk.yandex.ru/d/XBEV5oJECyhVLQ
